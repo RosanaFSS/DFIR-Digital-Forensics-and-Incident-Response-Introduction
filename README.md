@@ -1,2 +1,4 @@
-# DFIR-Digital-Forensics-and-Incident-Response-Introduction
-DFIR, Digital Forensics and Incident Response Introduction
+<h1 align="center">Digital Forensics and Incident Response (DFIR)<br>Introduction<br><img width="660px" src="https://github.com/user-attachments/assets/0df0a62d-dedd-4dbc-aa0d-4c6dd7fc99c7"></h1>
+
+➜ [Digital Forensics Fundamentals](), Digital Forensics and related processes<br>
+➜ [Compromised Windows Analysis](), Forensic Artifacts<br>
